@@ -1,0 +1,353 @@
+2025-07-08 23:45:49,634 INFO  - Plus.Logger >> Connected to Database!
+2025-07-08 23:45:50,148 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 7 moderation presets.
+2025-07-08 23:45:50,148 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 6 moderation categories.
+2025-07-08 23:45:50,148 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 6 moderation action preset messages.
+2025-07-08 23:45:50,148 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 0 username and machine bans.
+2025-07-08 23:45:50,148 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2025-07-08 23:45:50,254 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2025-07-08 23:45:50,355 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2025-07-08 23:45:50,356 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2025-07-08 23:45:50,360 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2025-07-08 23:45:50,366 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2025-07-08 23:45:50,384 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2025-07-08 23:45:50,384 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2025-07-08 23:45:50,385 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-08 23:45:50,387 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-08 23:45:50,388 INFO  - Plus.HabboHotel.Groups.GroupManager >> Group Manager -> LOADED
+2025-07-08 23:45:50,430 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-08 23:45:50,432 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2025-07-08 23:45:50,434 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2025-07-08 23:45:50,436 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2025-07-08 23:45:50,437 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2025-07-08 23:45:50,437 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2025-07-08 23:45:50,438 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2025-07-08 23:45:50,476 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2025-07-08 23:45:50,478 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded badge manager.
+2025-07-08 23:45:50,480 INFO  - Plus.HabboHotel.Rooms.TraxMachine >> Loaded 82 Jukebox Songs.
+2025-07-08 23:45:50,482 INFO  - Plus.HabboRoleplay.Food.FoodManager >> Loaded 6 roleplay food.
+2025-07-08 23:45:50,489 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 64 permissions.
+2025-07-08 23:45:50,489 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 6 permissions groups.
+2025-07-08 23:45:50,489 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 4 permissions group rights.
+2025-07-08 23:45:50,489 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 2 permissions subscription rights.
+2025-07-08 23:45:50,503 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Hospital(s).
+2025-07-08 23:45:50,504 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Prison(s).
+2025-07-08 23:45:50,504 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Prisonback(s).
+2025-07-08 23:45:50,504 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Court(s).
+2025-07-08 23:45:50,504 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Sanc Room(s).
+2025-07-08 23:45:50,504 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Police Station(s).
+2025-07-08 23:45:50,504 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Camioneros Zone(s).
+2025-07-08 23:45:50,504 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Mecanicos Zone(s).
+2025-07-08 23:45:50,504 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Basureros Zone(s).
+2025-07-08 23:45:50,505 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Mineros Zone(s).
+2025-07-08 23:45:50,505 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Armeros Zone(s).
+2025-07-08 23:45:50,506 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2025-07-08 23:45:50,508 INFO  - Plus.HabboRoleplay.Misc.RoleplayData >> RoleplayData -> LOADED!
+2025-07-08 23:45:50,508 INFO  - Plus.HabboRoleplay.Combat.CombatManager >> CombatManager (2) -> LOADED!
+2025-07-08 23:45:50,510 INFO  - Plus.HabboRoleplay.Weapons >> Loaded 16 roleplay weapons.
+2025-07-08 23:45:50,512 INFO  - Plus.HabboRoleplay.Vehicles >> Loaded 37 roleplay vehicles.
+2025-07-08 23:45:50,514 INFO  - Plus.HabboRoleplay.VehicleJobs >> Loaded 62 roleplay jobs vehicles.
+2025-07-08 23:45:50,881 INFO  - Plus.HabboRoleplay.Phones >> Loaded 1 roleplay phones.
+2025-07-08 23:45:50,882 INFO  - Plus.HabboRoleplay.PhonesApps >> Loaded 18 roleplay phones apps.
+2025-07-08 23:45:50,885 INFO  - Plus.HabboHotel.RolePlay.PlayInternet >> Loaded 1 Web Page(s) from PlayInternet.
+2025-07-08 23:45:50,886 INFO  - Plus.HabboRoleplay.Products >> Loaded 18 roleplay products.
+2025-07-08 23:45:50,889 INFO  - Plus.HabboRoleplay.RoleplayManager >> Assignaments of Inventory Products successfully
+2025-07-08 23:45:50,889 INFO  - Plus.HabboRoleplay.Misc.RoleplayData >> EventManager (4) -> LOADED
+2025-07-08 23:45:50,964 INFO  - Plus.HabboRoleplay.Comodin >> Loaded 38 roleplay comodines.
+2025-07-08 23:45:50,966 INFO  - Plus.HabboRoleplay.Houses.ApartmentManager >> Loaded 35 apartments.
+2025-07-08 23:45:51,353 INFO  - Plus.Utilities >> Loaded Dijkstra Algorithm
+2025-07-08 23:45:51,355 INFO  - Plus.HabboRoleplay.TaxiNodes >> Loaded 104 taxi nodes.
+2025-07-08 23:45:51,357 INFO  - Plus.HabboRoleplay.TaxiRoomNodes >> Loaded 36 taxi room nodes.
+2025-07-08 23:45:51,386 INFO  - Plus.HabboRoleplay.TaxiRoomNodeTemplateManager >> Loaded 1296 taxi room paths.
+2025-07-08 23:45:51,388 INFO  - Plus.HabboRoleplay.Houses.HouseManager >> Loaded 28 houses.
+2025-07-08 23:45:51,391 INFO  - Plus.HabboRoleplay.Houses.ApartmentOwnedManager >> Loaded 16 apartments owned.
+2025-07-08 23:45:51,391 INFO  - Plus.HabboRoleplay.PhoneChat.PhoneChatManaer >> PhoneChat Initialized 100%
+2025-07-08 23:45:51,393 INFO  - Plus.HabboRoleplay.PhoneChat.VehiclesOwnedManager >> Loaded 33 VehiclesOwned
+2025-07-08 23:45:51,394 INFO  - Plus.HabboRoleplay.PhoneOwned >> Loaded 50 PhonesOwned
+2025-07-08 23:45:51,398 INFO  - Plus.HabboRoleplay.Business.BusinessBalanceManager >> Loaded 203 business balance(s).
+2025-07-08 23:45:51,400 INFO  - Plus.HabboRoleplay.GangTurfs.GangTurfsManager >> Loaded 7 Gang Turfs
+2025-07-08 23:45:51,487 INFO  - MusSocket >> Successfully setup MUS Connection on port (30110)!
+2025-07-08 23:45:51,490 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (6049)!
+2025-07-08 23:45:51,490 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2025-07-08 23:45:51,491 INFO  - Plus.Logger >> [EZ] => Emulator -> Listo! (2 s, 511 ms)
+2025-07-09 00:07:50,441 INFO  - Plus.Logger >> Server shutting down...
+2025-07-09 00:07:52,952 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Done saving users inventory!
+2025-07-09 00:07:52,952 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Closing server connections...
+2025-07-09 00:07:52,952 INFO  - Plus.HabboHotel.GameClients.GameClientManager >> Connections closed!
+2025-07-09 00:07:52,952 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Done disposing rooms!
+2025-07-09 00:07:52,977 INFO  - Plus.Logger >> Plus Emulator has successfully shutdown.
+2025-07-11 19:59:48,334 INFO  - Plus.Logger >> Connected to Database!
+2025-07-11 19:59:48,814 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 7 moderation presets.
+2025-07-11 19:59:48,814 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 6 moderation categories.
+2025-07-11 19:59:48,814 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 6 moderation action preset messages.
+2025-07-11 19:59:48,815 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 0 username and machine bans.
+2025-07-11 19:59:48,815 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2025-07-11 19:59:48,925 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2025-07-11 19:59:49,089 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2025-07-11 19:59:49,092 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2025-07-11 19:59:49,098 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2025-07-11 19:59:49,106 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2025-07-11 19:59:49,147 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2025-07-11 19:59:49,147 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2025-07-11 19:59:49,149 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-11 19:59:49,151 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-11 19:59:49,153 INFO  - Plus.HabboHotel.Groups.GroupManager >> Group Manager -> LOADED
+2025-07-11 19:59:49,205 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-11 19:59:49,210 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2025-07-11 19:59:49,220 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2025-07-11 19:59:49,225 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2025-07-11 19:59:49,228 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2025-07-11 19:59:49,230 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2025-07-11 19:59:49,233 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2025-07-11 19:59:49,279 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2025-07-11 19:59:49,286 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded badge manager.
+2025-07-11 19:59:49,291 INFO  - Plus.HabboHotel.Rooms.TraxMachine >> Loaded 82 Jukebox Songs.
+2025-07-11 19:59:49,294 INFO  - Plus.HabboRoleplay.Food.FoodManager >> Loaded 6 roleplay food.
+2025-07-11 19:59:49,307 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 64 permissions.
+2025-07-11 19:59:49,307 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 6 permissions groups.
+2025-07-11 19:59:49,307 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 4 permissions group rights.
+2025-07-11 19:59:49,307 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 2 permissions subscription rights.
+2025-07-11 19:59:49,325 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Hospital(s).
+2025-07-11 19:59:49,325 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Prison(s).
+2025-07-11 19:59:49,325 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Prisonback(s).
+2025-07-11 19:59:49,326 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Court(s).
+2025-07-11 19:59:49,326 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Sanc Room(s).
+2025-07-11 19:59:49,326 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Police Station(s).
+2025-07-11 19:59:49,326 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Camioneros Zone(s).
+2025-07-11 19:59:49,326 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Mecanicos Zone(s).
+2025-07-11 19:59:49,326 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Basureros Zone(s).
+2025-07-11 19:59:49,326 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Mineros Zone(s).
+2025-07-11 19:59:49,326 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Armeros Zone(s).
+2025-07-11 19:59:49,329 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2025-07-11 19:59:49,333 INFO  - Plus.HabboRoleplay.Misc.RoleplayData >> RoleplayData -> LOADED!
+2025-07-11 19:59:49,334 INFO  - Plus.HabboRoleplay.Combat.CombatManager >> CombatManager (2) -> LOADED!
+2025-07-11 19:59:49,337 INFO  - Plus.HabboRoleplay.Weapons >> Loaded 16 roleplay weapons.
+2025-07-11 19:59:49,340 INFO  - Plus.HabboRoleplay.Vehicles >> Loaded 37 roleplay vehicles.
+2025-07-11 19:59:49,343 INFO  - Plus.HabboRoleplay.VehicleJobs >> Loaded 62 roleplay jobs vehicles.
+2025-07-11 19:59:49,493 INFO  - Plus.HabboRoleplay.Phones >> Loaded 1 roleplay phones.
+2025-07-11 19:59:49,497 INFO  - Plus.HabboRoleplay.PhonesApps >> Loaded 18 roleplay phones apps.
+2025-07-11 19:59:49,499 INFO  - Plus.HabboHotel.RolePlay.PlayInternet >> Loaded 1 Web Page(s) from PlayInternet.
+2025-07-11 19:59:49,502 INFO  - Plus.HabboRoleplay.Products >> Loaded 18 roleplay products.
+2025-07-11 19:59:49,506 INFO  - Plus.HabboRoleplay.RoleplayManager >> Assignaments of Inventory Products successfully
+2025-07-11 19:59:49,506 INFO  - Plus.HabboRoleplay.Misc.RoleplayData >> EventManager (4) -> LOADED
+2025-07-11 19:59:49,589 INFO  - Plus.HabboRoleplay.Comodin >> Loaded 38 roleplay comodines.
+2025-07-11 19:59:49,592 INFO  - Plus.HabboRoleplay.Houses.ApartmentManager >> Loaded 35 apartments.
+2025-07-11 19:59:49,936 INFO  - Plus.Utilities >> Loaded Dijkstra Algorithm
+2025-07-11 19:59:49,941 INFO  - Plus.HabboRoleplay.TaxiNodes >> Loaded 104 taxi nodes.
+2025-07-11 19:59:49,943 INFO  - Plus.HabboRoleplay.TaxiRoomNodes >> Loaded 36 taxi room nodes.
+2025-07-11 19:59:49,972 INFO  - Plus.HabboRoleplay.TaxiRoomNodeTemplateManager >> Loaded 1296 taxi room paths.
+2025-07-11 19:59:49,976 INFO  - Plus.HabboRoleplay.Houses.HouseManager >> Loaded 28 houses.
+2025-07-11 19:59:49,978 INFO  - Plus.HabboRoleplay.Houses.ApartmentOwnedManager >> Loaded 16 apartments owned.
+2025-07-11 19:59:49,978 INFO  - Plus.HabboRoleplay.PhoneChat.PhoneChatManaer >> PhoneChat Initialized 100%
+2025-07-11 19:59:49,980 INFO  - Plus.HabboRoleplay.PhoneChat.VehiclesOwnedManager >> Loaded 33 VehiclesOwned
+2025-07-11 19:59:49,983 INFO  - Plus.HabboRoleplay.PhoneOwned >> Loaded 50 PhonesOwned
+2025-07-11 19:59:49,988 INFO  - Plus.HabboRoleplay.Business.BusinessBalanceManager >> Loaded 203 business balance(s).
+2025-07-11 19:59:49,992 INFO  - Plus.HabboRoleplay.GangTurfs.GangTurfsManager >> Loaded 7 Gang Turfs
+2025-07-11 19:59:50,092 INFO  - MusSocket >> Successfully setup MUS Connection on port (30110)!
+2025-07-11 19:59:50,095 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (6049)!
+2025-07-11 19:59:50,095 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2025-07-11 19:59:50,096 INFO  - Plus.Logger >> [EZ] => Emulator -> Listo! (2 s, 534 ms)
+2025-07-28 19:40:35,839 INFO  - Plus.Logger >> Connected to Database!
+2025-07-28 19:40:36,610 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 7 moderation presets.
+2025-07-28 19:40:36,611 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 6 moderation categories.
+2025-07-28 19:40:36,611 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 6 moderation action preset messages.
+2025-07-28 19:40:36,611 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 0 username and machine bans.
+2025-07-28 19:40:36,611 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2025-07-28 19:40:37,598 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2025-07-28 19:41:17,282 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2025-07-28 19:41:21,349 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2025-07-28 19:41:27,462 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2025-07-28 19:41:31,536 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2025-07-28 19:41:47,770 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 0 chat styles.
+2025-07-28 19:41:47,771 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2025-07-28 19:41:47,772 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-28 19:41:47,774 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-28 19:41:51,845 INFO  - Plus.HabboHotel.Groups.GroupManager >> Group Manager -> LOADED
+2025-07-28 19:41:55,893 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-28 19:41:59,952 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2025-07-28 19:42:04,014 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2025-07-28 19:42:12,127 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2025-07-28 19:42:16,165 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2025-07-28 19:42:18,204 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2025-07-28 19:42:22,252 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2025-07-28 19:42:30,431 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2025-07-28 19:42:36,539 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded badge manager.
+2025-07-28 19:42:40,620 INFO  - Plus.HabboHotel.Rooms.TraxMachine >> Loaded 0 Jukebox Songs.
+2025-07-28 19:42:44,665 INFO  - Plus.HabboRoleplay.Food.FoodManager >> Loaded 0 roleplay food.
+2025-07-28 19:42:48,231 INFO  - Plus.Logger >> Server shutting down...
+2025-07-28 19:44:23,777 ERROR - Plus.Logger >> Failed to connect to the specified MySQL server.
+2025-07-28 19:45:15,930 INFO  - Plus.Logger >> Connected to Database!
+2025-07-28 19:47:23,394 INFO  - Plus.Logger >> Connected to Database!
+2025-07-28 19:49:24,929 INFO  - Plus.Logger >> Connected to Database!
+2025-07-28 19:52:55,323 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation presets.
+2025-07-28 19:52:55,324 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation categories.
+2025-07-28 19:52:55,324 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 0 moderation action preset messages.
+2025-07-28 19:52:55,324 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 0 username and machine bans.
+2025-07-28 19:52:55,324 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2025-07-28 19:53:25,511 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2025-07-28 19:57:27,184 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2025-07-28 19:57:57,427 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2025-07-28 19:58:57,716 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2025-07-28 19:59:27,781 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2025-07-28 20:01:18,010 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 0 chat styles.
+2025-07-28 20:01:18,011 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2025-07-28 20:01:18,012 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-28 20:01:18,015 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-28 20:01:22,093 INFO  - Plus.HabboHotel.Groups.GroupManager >> Group Manager -> LOADED
+2025-07-28 20:01:26,176 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-28 20:01:30,267 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2025-07-28 20:01:34,351 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2025-07-28 20:01:42,518 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2025-07-28 20:01:46,610 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2025-07-28 20:01:48,659 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2025-07-28 20:01:52,738 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2025-07-28 20:02:00,942 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2025-07-28 20:02:07,085 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded badge manager.
+2025-07-28 20:02:11,145 INFO  - Plus.HabboHotel.Rooms.TraxMachine >> Loaded 0 Jukebox Songs.
+2025-07-28 20:02:15,234 INFO  - Plus.HabboRoleplay.Food.FoodManager >> Loaded 0 roleplay food.
+2025-07-28 20:02:18,666 INFO  - Plus.Logger >> Server shutting down...
+2025-07-28 20:03:58,966 INFO  - Plus.Logger >> Connected to Database!
+2025-07-28 20:03:59,390 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 7 moderation presets.
+2025-07-28 20:03:59,390 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 6 moderation categories.
+2025-07-28 20:03:59,390 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 6 moderation action preset messages.
+2025-07-28 20:03:59,390 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 0 username and machine bans.
+2025-07-28 20:03:59,390 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2025-07-28 20:03:59,497 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2025-07-28 20:03:59,648 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2025-07-28 20:03:59,653 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2025-07-28 20:03:59,666 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2025-07-28 20:03:59,684 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2025-07-28 20:03:59,728 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2025-07-28 20:03:59,728 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2025-07-28 20:03:59,729 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-28 20:03:59,730 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-28 20:03:59,736 INFO  - Plus.HabboHotel.Groups.GroupManager >> Group Manager -> LOADED
+2025-07-28 20:03:59,806 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-28 20:03:59,814 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2025-07-28 20:03:59,819 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2025-07-28 20:03:59,830 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2025-07-28 20:03:59,835 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2025-07-28 20:03:59,837 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2025-07-28 20:03:59,843 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2025-07-28 20:03:59,870 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2025-07-28 20:03:59,882 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded badge manager.
+2025-07-28 20:03:59,885 INFO  - Plus.HabboHotel.Rooms.TraxMachine >> Loaded 82 Jukebox Songs.
+2025-07-28 20:03:59,891 INFO  - Plus.HabboRoleplay.Food.FoodManager >> Loaded 6 roleplay food.
+2025-07-28 20:03:59,918 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 64 permissions.
+2025-07-28 20:03:59,918 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 6 permissions groups.
+2025-07-28 20:03:59,918 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 4 permissions group rights.
+2025-07-28 20:03:59,918 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 2 permissions subscription rights.
+2025-07-28 20:03:59,939 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Hospital(s).
+2025-07-28 20:03:59,940 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Prison(s).
+2025-07-28 20:03:59,940 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Prisonback(s).
+2025-07-28 20:03:59,940 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Court(s).
+2025-07-28 20:03:59,940 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Sanc Room(s).
+2025-07-28 20:03:59,940 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Police Station(s).
+2025-07-28 20:03:59,940 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Camioneros Zone(s).
+2025-07-28 20:03:59,940 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Mecanicos Zone(s).
+2025-07-28 20:03:59,940 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Basureros Zone(s).
+2025-07-28 20:03:59,941 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Mineros Zone(s).
+2025-07-28 20:03:59,941 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Armeros Zone(s).
+2025-07-28 20:03:59,947 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2025-07-28 20:03:59,953 INFO  - Plus.HabboRoleplay.Misc.RoleplayData >> RoleplayData -> LOADED!
+2025-07-28 20:03:59,954 INFO  - Plus.HabboRoleplay.Combat.CombatManager >> CombatManager (2) -> LOADED!
+2025-07-28 20:03:59,957 INFO  - Plus.HabboRoleplay.Weapons >> Loaded 16 roleplay weapons.
+2025-07-28 20:03:59,963 INFO  - Plus.HabboRoleplay.Vehicles >> Loaded 37 roleplay vehicles.
+2025-07-28 20:03:59,968 INFO  - Plus.HabboRoleplay.VehicleJobs >> Loaded 62 roleplay jobs vehicles.
+2025-07-28 20:04:00,054 INFO  - Plus.HabboRoleplay.Phones >> Loaded 1 roleplay phones.
+2025-07-28 20:04:00,060 INFO  - Plus.HabboRoleplay.PhonesApps >> Loaded 18 roleplay phones apps.
+2025-07-28 20:04:00,065 INFO  - Plus.HabboHotel.RolePlay.PlayInternet >> Loaded 1 Web Page(s) from PlayInternet.
+2025-07-28 20:04:00,071 INFO  - Plus.HabboRoleplay.Products >> Loaded 18 roleplay products.
+2025-07-28 20:04:00,074 INFO  - Plus.HabboRoleplay.RoleplayManager >> Assignaments of Inventory Products successfully
+2025-07-28 20:04:00,074 INFO  - Plus.HabboRoleplay.Misc.RoleplayData >> EventManager (4) -> LOADED
+2025-07-28 20:04:00,162 INFO  - Plus.HabboRoleplay.Comodin >> Loaded 38 roleplay comodines.
+2025-07-28 20:04:00,167 INFO  - Plus.HabboRoleplay.Houses.ApartmentManager >> Loaded 35 apartments.
+2025-07-28 20:04:00,516 INFO  - Plus.Utilities >> Loaded Dijkstra Algorithm
+2025-07-28 20:04:00,523 INFO  - Plus.HabboRoleplay.TaxiNodes >> Loaded 104 taxi nodes.
+2025-07-28 20:04:00,525 INFO  - Plus.HabboRoleplay.TaxiRoomNodes >> Loaded 36 taxi room nodes.
+2025-07-28 20:04:00,555 INFO  - Plus.HabboRoleplay.TaxiRoomNodeTemplateManager >> Loaded 1296 taxi room paths.
+2025-07-28 20:04:00,562 INFO  - Plus.HabboRoleplay.Houses.HouseManager >> Loaded 28 houses.
+2025-07-28 20:04:00,564 INFO  - Plus.HabboRoleplay.Houses.ApartmentOwnedManager >> Loaded 16 apartments owned.
+2025-07-28 20:04:00,564 INFO  - Plus.HabboRoleplay.PhoneChat.PhoneChatManaer >> PhoneChat Initialized 100%
+2025-07-28 20:04:00,567 INFO  - Plus.HabboRoleplay.PhoneChat.VehiclesOwnedManager >> Loaded 33 VehiclesOwned
+2025-07-28 20:04:00,572 INFO  - Plus.HabboRoleplay.PhoneOwned >> Loaded 50 PhonesOwned
+2025-07-28 20:04:00,580 INFO  - Plus.HabboRoleplay.Business.BusinessBalanceManager >> Loaded 203 business balance(s).
+2025-07-28 20:04:00,583 INFO  - Plus.HabboRoleplay.GangTurfs.GangTurfsManager >> Loaded 7 Gang Turfs
+2025-07-28 20:04:00,602 INFO  - MusSocket >> Successfully setup MUS Connection on port (30110)!
+2025-07-28 20:04:00,605 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (6049)!
+2025-07-28 20:04:00,605 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2025-07-28 20:04:00,606 INFO  - Plus.Logger >> [EZ] => Emulator -> Listo! (2 s, 354 ms)
+2025-07-29 19:18:34,166 INFO  - Plus.Logger >> Connected to Database!
+2025-07-29 19:18:35,242 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 7 moderation presets.
+2025-07-29 19:18:35,242 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 6 moderation categories.
+2025-07-29 19:18:35,242 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Loaded 6 moderation action preset messages.
+2025-07-29 19:18:35,242 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Cached 0 username and machine bans.
+2025-07-29 19:18:35,242 INFO  - Plus.HabboHotel.Moderation.ModerationManager >> Moderation Manager -> LOADED
+2025-07-29 19:18:35,399 INFO  - Plus.HabboHotel.Items.ItemDataManager >> Item Manager -> LOADED
+2025-07-29 19:18:35,617 INFO  - Plus.HabboHotel.Catalog.CatalogManager >> Catalog Manager -> LOADED
+2025-07-29 19:18:35,631 INFO  - Plus.HabboHotel.Items.Televisions.TelevisionManager >> Television Items -> LOADED
+2025-07-29 19:18:35,658 INFO  - Plus.HabboHotel.Navigator.NavigatorManager >> Navigator -> LOADED
+2025-07-29 19:18:35,691 INFO  - Plus.HabboHotel.Rooms.RoomManager >> Room Manager -> LOADED
+2025-07-29 19:18:35,757 INFO  - Plus.HabboHotel.Rooms.Chat.Styles.ChatStyleManager >> Loaded 38 chat styles.
+2025-07-29 19:18:35,757 INFO  - Plus.HabboHotel.Rooms.Chat.ChatManager >> Chat Manager -> LOADED
+2025-07-29 19:18:35,759 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-29 19:18:35,760 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-29 19:18:35,774 INFO  - Plus.HabboHotel.Groups.GroupManager >> Group Manager -> LOADED
+2025-07-29 19:18:35,878 INFO  - Plus.HabboHotel.Groups.Forums >> Successfully initialized group forum manager.
+2025-07-29 19:18:35,891 INFO  - Plus.HabboHotel.Quests.QuestManager >> Quest Manager -> LOADED
+2025-07-29 19:18:35,904 INFO  - Plus.HabboHotel.Achievements.AchievementManager >> Achievement Manager -> LOADED
+2025-07-29 19:18:35,929 INFO  - Plus.HabboHotel.LandingView.LandingViewManager >> Landing View Manager -> LOADED
+2025-07-29 19:18:35,943 INFO  - Plus.HabboHotel.Games.GameDataManager >> Game Data Manager -> LOADED
+2025-07-29 19:18:35,944 INFO  - Mango.Global.ServerUpdater >> Server Status Updater has been started.
+2025-07-29 19:18:35,958 INFO  - Plus.HabboHotel.Global.LanguageLocale >> Language Locale Manager -> LOADED
+2025-07-29 19:18:36,004 INFO  - Plus.HabboHotel.Cache.CacheManager >> Cache Manager -> LOADED
+2025-07-29 19:18:36,029 INFO  - Plus.HabboHotel.Badges.BadgeManager >> Loaded badge manager.
+2025-07-29 19:18:36,035 INFO  - Plus.HabboHotel.Rooms.TraxMachine >> Loaded 82 Jukebox Songs.
+2025-07-29 19:18:36,048 INFO  - Plus.HabboRoleplay.Food.FoodManager >> Loaded 6 roleplay food.
+2025-07-29 19:18:36,109 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 64 permissions.
+2025-07-29 19:18:36,109 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 6 permissions groups.
+2025-07-29 19:18:36,109 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 4 permissions group rights.
+2025-07-29 19:18:36,109 INFO  - Plus.HabboHotel.Permissions.PermissionManager >> Loaded 2 permissions subscription rights.
+2025-07-29 19:18:36,140 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Hospital(s).
+2025-07-29 19:18:36,140 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Prison(s).
+2025-07-29 19:18:36,140 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Prisonback(s).
+2025-07-29 19:18:36,140 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Court(s).
+2025-07-29 19:18:36,140 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Sanc Room(s).
+2025-07-29 19:18:36,141 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Police Station(s).
+2025-07-29 19:18:36,141 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Camioneros Zone(s).
+2025-07-29 19:18:36,141 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Mecanicos Zone(s).
+2025-07-29 19:18:36,141 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Basureros Zone(s).
+2025-07-29 19:18:36,141 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Mineros Zone(s).
+2025-07-29 19:18:36,141 INFO  - Plus.HabboHotel.RolePlay.PlayRoom >> Loaded 1 Armeros Zone(s).
+2025-07-29 19:18:36,154 INFO  - Plus.HabboHotel.Subscriptions.SubscriptionManager >> Loaded 3 subscriptions.
+2025-07-29 19:18:36,168 INFO  - Plus.HabboRoleplay.Misc.RoleplayData >> RoleplayData -> LOADED!
+2025-07-29 19:18:36,168 INFO  - Plus.HabboRoleplay.Combat.CombatManager >> CombatManager (2) -> LOADED!
+2025-07-29 19:18:36,180 INFO  - Plus.HabboRoleplay.Weapons >> Loaded 16 roleplay weapons.
+2025-07-29 19:18:36,194 INFO  - Plus.HabboRoleplay.Vehicles >> Loaded 37 roleplay vehicles.
+2025-07-29 19:18:36,207 INFO  - Plus.HabboRoleplay.VehicleJobs >> Loaded 62 roleplay jobs vehicles.
+2025-07-29 19:18:36,299 INFO  - Plus.HabboRoleplay.Phones >> Loaded 1 roleplay phones.
+2025-07-29 19:18:36,311 INFO  - Plus.HabboRoleplay.PhonesApps >> Loaded 18 roleplay phones apps.
+2025-07-29 19:18:36,324 INFO  - Plus.HabboHotel.RolePlay.PlayInternet >> Loaded 1 Web Page(s) from PlayInternet.
+2025-07-29 19:18:36,337 INFO  - Plus.HabboRoleplay.Products >> Loaded 18 roleplay products.
+2025-07-29 19:18:36,340 INFO  - Plus.HabboRoleplay.RoleplayManager >> Assignaments of Inventory Products successfully
+2025-07-29 19:18:36,340 INFO  - Plus.HabboRoleplay.Misc.RoleplayData >> EventManager (4) -> LOADED
+2025-07-29 19:18:36,432 INFO  - Plus.HabboRoleplay.Comodin >> Loaded 38 roleplay comodines.
+2025-07-29 19:18:36,444 INFO  - Plus.HabboRoleplay.Houses.ApartmentManager >> Loaded 35 apartments.
+2025-07-29 19:18:36,830 INFO  - Plus.Utilities >> Loaded Dijkstra Algorithm
+2025-07-29 19:18:36,846 INFO  - Plus.HabboRoleplay.TaxiNodes >> Loaded 104 taxi nodes.
+2025-07-29 19:18:36,862 INFO  - Plus.HabboRoleplay.TaxiRoomNodes >> Loaded 36 taxi room nodes.
+2025-07-29 19:18:36,902 INFO  - Plus.HabboRoleplay.TaxiRoomNodeTemplateManager >> Loaded 1296 taxi room paths.
+2025-07-29 19:18:36,922 INFO  - Plus.HabboRoleplay.Houses.HouseManager >> Loaded 28 houses.
+2025-07-29 19:18:36,938 INFO  - Plus.HabboRoleplay.Houses.ApartmentOwnedManager >> Loaded 16 apartments owned.
+2025-07-29 19:18:36,939 INFO  - Plus.HabboRoleplay.PhoneChat.PhoneChatManaer >> PhoneChat Initialized 100%
+2025-07-29 19:18:36,946 INFO  - Plus.HabboRoleplay.PhoneChat.VehiclesOwnedManager >> Loaded 33 VehiclesOwned
+2025-07-29 19:18:36,965 INFO  - Plus.HabboRoleplay.PhoneOwned >> Loaded 50 PhonesOwned
+2025-07-29 19:18:36,985 INFO  - Plus.HabboRoleplay.Business.BusinessBalanceManager >> Loaded 203 business balance(s).
+2025-07-29 19:18:36,997 INFO  - Plus.HabboRoleplay.GangTurfs.GangTurfsManager >> Loaded 7 Gang Turfs
+2025-07-29 19:18:37,122 INFO  - MusSocket >> Successfully setup MUS Connection on port (30110)!
+2025-07-29 19:18:37,126 INFO  - ConnectionManager >> Successfully setup GameSocketManager on port (6049)!
+2025-07-29 19:18:37,126 INFO  - ConnectionManager >> Maximum connections per IP has been set to [200]!
+2025-07-29 19:18:37,128 INFO  - Plus.Logger >> [EZ] => Emulator -> Listo! (3 s, 623 ms)
+2025-07-29 22:36:00,333 ERROR - Plus.Core.ConsoleCommandHandler >> exit is an unknown or unsupported command. Type help for more information
+2025-07-29 22:36:08,024 ERROR - Plus.Core.ConsoleCommandHandler >> exit is an unknown or unsupported command. Type help for more information
+2025-07-29 22:36:09,441 ERROR - Plus.Core.ConsoleCommandHandler >> salir is an unknown or unsupported command. Type help for more information
+2025-07-29 22:36:16,251 ERROR - Plus.Core.ConsoleCommandHandler >> exit is an unknown or unsupported command. Type help for more information
